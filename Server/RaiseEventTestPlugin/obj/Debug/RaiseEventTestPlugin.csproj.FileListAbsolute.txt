@@ -1,0 +1,18 @@
+C:\Users\Marrot-\Desktop\NYP\Y4S1\DM2341 Server Programming for Social Games\Assignment1\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\RaiseEventTestPlugin.dll
+C:\Users\Marrot-\Desktop\NYP\Y4S1\DM2341 Server Programming for Social Games\Assignment1\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\RaiseEventTestPlugin.pdb
+C:\Users\Marrot-\Desktop\NYP\Y4S1\DM2341 Server Programming for Social Games\Assignment1\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\Google.Protobuf.dll
+C:\Users\Marrot-\Desktop\NYP\Y4S1\DM2341 Server Programming for Social Games\Assignment1\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\MySql.Data.dll
+C:\Users\Marrot-\Desktop\NYP\Y4S1\DM2341 Server Programming for Social Games\Assignment1\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\ExitGamesLibs.xml
+C:\Users\Marrot-\Desktop\NYP\Y4S1\DM2341 Server Programming for Social Games\Assignment1\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\MySql.Data.xml
+C:\Users\Marrot-\Desktop\NYP\Y4S1\DM2341 Server Programming for Social Games\Assignment1\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\Photon.SocketServer.xml
+C:\Users\Marrot-\Desktop\NYP\Y4S1\DM2341 Server Programming for Social Games\Assignment1\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\RaiseEventTestPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Marrot-\Desktop\NYP\Y4S1\DM2341 Server Programming for Social Games\Assignment1\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\RaiseEventTestPlugin.dll
+C:\Users\Marrot-\Desktop\NYP\Y4S1\DM2341 Server Programming for Social Games\Assignment1\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\RaiseEventTestPlugin.pdb
+D:\161725E_160284B_Assignment1\Server\RaiseEventTestPlugin\bin\Debug\RaiseEventTestPlugin.dll
+D:\161725E_160284B_Assignment1\Server\RaiseEventTestPlugin\bin\Debug\RaiseEventTestPlugin.pdb
+D:\161725E_160284B_Assignment1\Server\RaiseEventTestPlugin\bin\Debug\Google.Protobuf.dll
+D:\161725E_160284B_Assignment1\Server\RaiseEventTestPlugin\bin\Debug\MySql.Data.dll
+D:\161725E_160284B_Assignment1\Server\RaiseEventTestPlugin\bin\Debug\MySql.Data.xml
+D:\161725E_160284B_Assignment1\Server\RaiseEventTestPlugin\obj\Debug\RaiseEventTestPlugin.dll
+D:\161725E_160284B_Assignment1\Server\RaiseEventTestPlugin\obj\Debug\RaiseEventTestPlugin.pdb
+D:\161725E_160284B_Assignment1\Server\RaiseEventTestPlugin\obj\Debug\RaiseEventTestPlugin.csprojResolveAssemblyReference.cache
